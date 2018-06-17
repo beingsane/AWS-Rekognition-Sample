@@ -3,3 +3,7 @@
 ################################################################################
 
 /HelloDart/.vs/HelloDart
+/HelloDart/packages
+/HelloDart/.vs/config
+/HelloDart/HelloDart/obj/Debug
+/HelloDart/HelloDart/bin/Debug
